@@ -1,3 +1,3 @@
-![image](https://github.com/aye-nyeinSan/RandomQuote/assets/56792505/bb54a7dd-9445-429f-aeac-f59278a36cf5)
+![image](https://github.com/aye-nyeinSan/QuoteGenerator/assets/56792505/21280285-5cd9-414d-81ac-69e5147630e7)
+
 Simple javascript DOM
-testing out 
