@@ -2,3 +2,6 @@
 
 Simple javascript DOM
 using html,bootstrap,and javacsript DOM
+
+- push notification for the quote
+  
